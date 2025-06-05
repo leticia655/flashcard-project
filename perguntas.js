@@ -15,3 +15,9 @@ criaCartao(
     'o que é um led em robotica?',
     'sao componentes eletrônicos que emitem luz quando energizados'
 )
+
+criaCartao(
+    'lingua inglesa',
+    'como se diz obrigado em ingles?',
+    'obrigado em ingles é thank you',
+)
